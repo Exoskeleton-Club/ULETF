@@ -4,7 +4,6 @@ This is a ULETF project page.
 ULETF: upper limb exoskeleton elbow torque feedback
 
 ## Components
-- Teaser video
 - Images Carousel
 - Video embedding
 - Video Carousel
